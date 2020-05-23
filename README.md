@@ -5,6 +5,7 @@ Unifont to `*.fnt` experiments
 ---
 ## Trying to create font `*.fnt`, which include glyphs from unifont, for use in libgdx game/app gui's  
 Completed with few additional fixes.  
+Font size 16. Summary `*.fnt` + png's files size less than 8MB.  
 bmfont64.exe created `*.fnt` fail with some gui ethiopia symbols  
 gdx-fontpack.jar created `*.fnt` success with:  
 - create full unicode txt (using python `hex.py` , that extract hex and convert into html, then copy from html into txt)
